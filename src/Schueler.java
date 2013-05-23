@@ -103,7 +103,7 @@ public class Schueler {
 	}
 
 	public void setKlasse(String klasse) {
-		this.klasse = klasse;
+		this.klasse = klasse+"Änderung";
 	}
 
 	public void setNoten(ArrayList<Note> noten) {
